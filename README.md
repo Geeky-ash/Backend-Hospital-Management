@@ -22,7 +22,7 @@ This backend service is developed for a **Hospital Management System** using **N
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (Mongoose ORM)
 - **Authentication**: JWT (JSON Web Token)
-- **API Documentation**: Postman / Swagger (Optional)
+- **API Documentation**: Postman
 
 ## Installation
 
