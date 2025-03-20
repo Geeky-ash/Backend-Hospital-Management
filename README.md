@@ -28,7 +28,7 @@ This backend service is developed for a **Hospital Management System** using **N
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-repo/hospital-management.git
+   git clone https://github.com/Geeky-ash/Backend-Hospital-Management.git
    cd hospital-management/backend
    ```
 
