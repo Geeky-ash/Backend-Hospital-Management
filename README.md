@@ -82,9 +82,6 @@ This backend service is developed for a **Hospital Management System** using **N
 ## Contribution
 Feel free to fork this project and contribute by submitting a pull request!
 
-## License
-This project is licensed under the **MIT License**.
-
 ---
 
 Developed with ❤️ by **Ashirwad**
